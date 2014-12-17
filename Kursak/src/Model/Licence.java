@@ -8,6 +8,6 @@ public class Licence {
 	private int period;
 	private double price;
 	private int softwareId;
-	//додати гетери і сетери
+	//додати гетери і сетери-
 
 }
